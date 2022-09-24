@@ -25,3 +25,18 @@
 .card > .card-header > * {
     color: white;
 }
+
+form {
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+/* skill pill */
+.skills-list > li {
+    display: inline-block;
+    padding: 5px 10px;
+    border-radius: 10px;
+    background-color: #00cfb1;
+    color: white;
+    margin: 5px;
+}
