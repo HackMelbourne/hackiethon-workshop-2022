@@ -15,14 +15,15 @@
    * Ingredients for the Web
    * HTML Page Structure
    * Anatomy of HTML Elements
-   * Cheatsheet of common HTML Elements (from plaintext to forms)
+   * Cheatsheet of common HTML Elements
 3. CSS
    * CSS Syntax
    * Displaying and Positioning
    * Typography
 4. JavaScript
    * Basic Syntax
-   * *Making a collapsible navbar
+   * Making a collapsible navbar
+   * Modal (Libary)
 5. Deployment
    * using GitHub Pages
 
