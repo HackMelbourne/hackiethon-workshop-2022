@@ -8,23 +8,23 @@
 * **Additional Code Snippets** that you could use in your Hackiethon project or get some inspo from~
 
 ## Participant Workbook Guides
-1. Setup
+1. Setup [15min]
    * Text Editor
    * GitHub repository
-2. HTML
+2. HTML [30min]
    * Ingredients for the Web
    * HTML Page Structure
    * Anatomy of HTML Elements
    * Cheatsheet of common HTML Elements
-3. CSS
+3. CSS [30min]
    * CSS Syntax
    * Displaying and Positioning
    * Typography
-4. JavaScript
+4. JavaScript [30min]
    * Basic Syntax
    * Making a collapsible navbar
    * Modal (Libary)
-5. Deployment
+5. Deployment [15min]
    * using GitHub Pages
 
 ## Additional Resources
