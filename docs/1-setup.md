@@ -18,9 +18,9 @@ OR
 ### VSCode (Offline)
 1. Download VSCode
 2. Download Node.js (allows us to run JavaScript locally)
-    * Windows Download: https://git-scm.com/download/win
-    * Mac Download: https://git-scm.com/download/mac 
-    * Linux Download: https://git-scm.com/download/linux 
+    * Windows Download: https://nodejs.org/dist/v16.17.1/node-v16.17.1-x64.msi
+    * Mac Download: https://nodejs.org/dist/v16.17.1/node-v16.17.1.pkg
+    * Linux Download: https://nodejs.org/dist/v16.17.1/node-v16.17.1-linux-x64.tar.xz
 3. Download Git
    * Windows Download: https://git-scm.com/download/win 
    * Mac Download: https://git-scm.com/download/mac 
