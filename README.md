@@ -3,7 +3,7 @@
 > Teaching you how to build a basic portfolio website with HTML, CSS and JS (no prior experience required!)
 
 ## Demo
-
+![](demo.gif)
 
 ## About this repository
 * **Workbook Guides** that detail everything we are going through in the workshop
