@@ -31,3 +31,5 @@
    * using GitHub Pages
 
 ## Additional Resources
+* https://codepen.io/chuahxinyu/pen/KKZbgqa
+* https://www.w3schools.com/
